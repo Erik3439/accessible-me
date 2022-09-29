@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: rgb(161, 153, 153);
   margin: 0;
   padding: 0;
 }
@@ -12,6 +12,7 @@ h4,
 h5,
 h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+  color: rgb(243, 248, 249);
 }
 
 .container {
@@ -33,6 +34,7 @@ img {
 }
 
 .main-nav ul li {
+  color: aliceblue;
   flex: 1;
   text-align: center;
 }
